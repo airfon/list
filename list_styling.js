@@ -43,4 +43,5 @@
 		}
 	}
 
-customElements.define("com-str-list-styling", ListStylingPanel);
+	customElements.define("com-str-list-styling", ListStylingPanel);
+})();
