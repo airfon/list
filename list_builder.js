@@ -49,5 +49,5 @@
 		}
 	}
 
-	customElements.define("com-str-list-builder", ColoredBoxBuilderPanel);
+	customElements.define("com-str-list-builder", ListBuilderPanel);
 })();

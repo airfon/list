@@ -43,4 +43,4 @@
 		}
 	}
 
-customElements.define("com-str-list-styling", ColoredBoxStylingPanel);
+customElements.define("com-str-list-styling", ListStylingPanel);
